@@ -1,0 +1,22 @@
+/*
+Theme Name: MaxyCode Theme
+Theme URI:  ahmed.z@maxycode.com
+Description: datacademy Dynamic website Theme
+Version: 1.6
+Author: 
+Author URI: 
+Tags: powerful, cheat, sheet
+*/
+
+   @import url("js/vendor/swiper/idangerous.swiper.css");
+   @import url("css/core.portfolio.css");
+   @import url("js/vendor/revslider/rs-plugin/css/settings.css");
+   @import url("css/fontello/css/fontello.css");
+   @import url("css/shortcodes.css");
+   @import url("css/core.animation.css");
+   @import url("css/style.css");
+   @import url("css/responsive.css");
+   @import url("css/skin.css");
+   @import url("custom_tools/css/front.customizer.css");
+   @import url("http://fontawesome.io/assets/font-awesome/css/font-awesome.css");
+
